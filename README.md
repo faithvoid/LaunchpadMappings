@@ -13,7 +13,7 @@ Copy the Mixxx files to your Mixxx installation's controller folder (found in /h
 When setting a slider back to it's default state, you'll need to tap on the last pressed pad 4 times to get it exactly in the middle. To my knowledge there isn't a workaround for this, so keep it in mind when adjusting the EQ/FX on a track. This can be worked around by removing the FX sliders in Novation's Custom Mode editor and adding MIDI buttons to reset the EQ/FX sliders to their default state. 
 
 #### TODO:
-- Sync LEDs to BPM + cue states.
+- Sync LEDs to BPM + cue states, hopefully sync volume fader LEDs to volume meter but I'm unsure as to if that's within my ability or not.
 - Optimize, optimize, optimize!
 - Actually work on the Traktor mapping (it should be simple enough, I just haven't used Traktor in forever.)
 

@@ -4,7 +4,7 @@
 A custom-made set of mappings and custom modes for use as a DJ controller in Traktor & Mixxx. Designed to be simple to use yet feature-packed.
 "DJ Main" controls play/cue/pause, cue points, fast forward/rewind, pitch up/down & track volume, and "DJ EQ" controls Hi-Mid-Low ends + Super FX knobs.
 
-![](1.jpg)
+![](1.png)
 
 ### Installation:
 Copy the Mixxx files to your Mixxx installation's controller folder (found in /home/<username>/.mixxx/controllers on Linux, /Users/<username>/Library/Containers/org.mixxx.mixxx/Data/Library/Application Support/Mixxx/controllers on macOS and C:\Users\<username>\AppData\local\Mixxx\controllers in Windows.), or if you're using Traktor, import the .tsi file via "Preferences -> Controller Manager -> Device -> Import .TSI -> Import Other".
